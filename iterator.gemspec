@@ -1,4 +1,4 @@
-require 'rake'
+#require 'rake'
 
 Gem::Specification.new do |spec|
   spec.name = "iterator"
